@@ -1,0 +1,4 @@
+netology\domain\Film.class
+ru\netology\domain\PurchaseItem.class
+netology\manager\AfishaManager.class
+ru\netology\manager\CartManager.class
